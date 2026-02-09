@@ -15,7 +15,7 @@ body{
     background-color:rgb(8, 11, 29);
 }
 header{
-    transition: width 9s, height 9s, background-color 9s, transform 9s;
+    transition: width 7s, height 7s, background-color 7s, transform 7s;
     text-align: center;
     background-color: #3229b3;
     color: rgb(4, 1, 0);
@@ -34,7 +34,7 @@ div{
     left: 580px;
 }
 .rate:hover{
-background-color: yellow;
+ background-color: yellow;
 }
 .para{
     font-family: sans-serif;
