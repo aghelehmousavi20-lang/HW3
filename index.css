@@ -1,0 +1,49 @@
+video {
+  width: 20%;
+  height: 20%;
+  position: relative;
+  left: 550px;
+  
+}
+section {
+border-radius: 80px;
+background-color:black;
+margin: 10px;
+ box-shadow:1px 2px 3px 5px rgba(249, 3, 3,0.4);
+}
+body{
+    background-color:rgb(8, 11, 29);
+}
+header{
+    transition: width 9s, height 9s, background-color 9s, transform 9s;
+    text-align: center;
+    background-color: #3229b3;
+    color: rgb(4, 1, 0);
+    padding: 20px;
+}
+header:hover{
+    background-color: rgb(202, 78, 43); 
+}
+*{
+    margin: 0;
+    padding: o;
+    box-sizing: border-box;
+}
+div{
+    position: relative;
+    left: 580px;
+}
+.rate:hover{
+background-color: yellow;
+}
+.para{
+    font-family: sans-serif;
+    text-align:left;
+    padding-left: 50px;
+    font-size: 24px;
+    font-weight: bolder;
+    color:rgba(255, 114, 6, 0.929);
+}
+.click:hover{
+    background-color: rgb(7, 246, 218);
+}
